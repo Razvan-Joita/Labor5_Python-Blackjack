@@ -1,0 +1,54 @@
+New game for user Razvan
+Bet for round 1: 10
+Lost round 1New amount: 90
+Bet for round 2: 8
+Lost round 2New amount: 82
+Final amount: 82
+New game for user Mihai
+Bet for round 1: 9
+Win round 1New amount: 109
+Bet for round 2: 6
+Lost round 2New amount: 103
+Bet for round 3: 10
+Lost round 3New amount: 93
+Bet for round 4: 2
+Win round 4New amount: 95
+Bet for round 5: 3
+Win round 5New amount: 98
+Final amount: 98
+New game for user Gabriel
+Bet for round 1: 10
+Lost round 1New amount: 90
+Final amount: 90
+New game for user Flaviu
+Bet for round 1: 10
+Lost round 1New amount: 90
+Final amount: 90
+New game for user David
+Bet for round 1: 20
+Win round 1New amount: 120
+Final amount: 120
+New game for user David
+Bet for round 1: 10
+Win round 1New amount: 110
+Final amount: 110
+New game for user Sergiu
+Bet for round 1: 10
+Lost round 1New amount: 90
+Bet for round 2: 30
+Lost round 2New amount: 60
+Final amount: 60
+New game for user Razvan
+Bet for round 1: 10
+Lost round 1New amount: 90
+Bet for round 2: 7
+Lost round 2New amount: 83
+Final amount: 83
+New game for user Razvan
+Bet for round 1: 10
+Win round 1New amount: 110
+Final amount: 110
+New game for user Razvan
+Bet for round 1: 100
+Win round 1New amount: 200
+Final amount: 200
